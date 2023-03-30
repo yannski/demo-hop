@@ -1,1 +1,1 @@
-<? echo "Hello World" ?>
+<? echo "Bonjour tout le monde" ?>
